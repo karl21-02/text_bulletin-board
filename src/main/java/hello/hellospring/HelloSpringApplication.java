@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class HelloSpringApplication {
 
 	public static void main(String[] args) {
-		// 안녕 내 이름은 김준희야!
+		// 안녕 내 이름은 김준희야!@@
 		Global.initScanner();
 		new App().run();
 		Global.exitScanner();
